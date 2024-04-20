@@ -4,8 +4,9 @@ on:
     push: 
         branches: 
             - master
+            - main
         paths:
-            - 'packages/containers/**'
+            - 'packages/container/**'
 
 defaults:
     run:
