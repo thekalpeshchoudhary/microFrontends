@@ -1,5 +1,5 @@
 # Microfrontend Project with CI/CD Pipeline for AWS Deployment
-#### This project demonstrates the implementation of a web application using the microfrontend architecture. Microfrontends allow for the independent development, testing, and deployment of individual frontend modules, which are then composed into a unified user interface.
+This project demonstrates the implementation of a web application using the microfrontend architecture. Microfrontends allow for the independent development, testing, and deployment of individual frontend modules, which are then composed into a unified user interface.
 
 ## Architecture Overview
 The project consists of 3 frontend modules, each representing a specific feature or functionality of the application. The main application shell serves as the container for these modules and orchestrates their composition on the user's browser.
